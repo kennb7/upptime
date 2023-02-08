@@ -14,9 +14,9 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: xMatters
     url: http://aa.xmatters.com/
-status-website:
-  baseUrl: /upptime
-  name: upptime repo
+# status-website:
+#   baseUrl: /upptime
+#   name: upptime repo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
