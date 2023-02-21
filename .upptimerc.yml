@@ -16,6 +16,8 @@ sites:
     url: http://aa.xmatters.com/
   - name: AIOPS
     url: http://newaiops.aa.com/
+  - name: APM
+    url: http://apm.aa.com/
 # status-website:
 #   baseUrl: /upptime
 #   name: upptime repo
