@@ -18,6 +18,8 @@ sites:
     url: http://newaiops.aa.com/
   - name: APM
     url: http://apm.aa.com/
+  - name: Teams
+    url: http://teams.microsoft.com/
 # status-website:
 #   baseUrl: /upptime
 #   name: upptime repo
